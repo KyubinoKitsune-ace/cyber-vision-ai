@@ -11,9 +11,9 @@ A First-Place Award-Winning Graduation Project from the Faculty of Science, Zaga
 </p>
 
 <p align="center">
-  <a href="https://github.com/bx0-0/CyberVisionAI"><img src="https://img.shields.io/github/stars/bx0-0/CyberVisionAI?style=social" alt="GitHub stars"></a>
-  <a href="https://github.com/bx0-0/CyberVisionAI"><img src="https://img.shields.io/github/forks/bx0-0/CyberVisionAI?style=social" alt="GitHub forks"></a>
-  <a href="https://github.com/bx0-0/CyberVisionAI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
+  <a href="https://github.com/KyubinoKitsune-ace/cyber-vision-ai"><img src="https://img.shields.io/github/stars/KyubinoKitsune-ace/cyber-vision-ai?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/KyubinoKitsune-ace/cyber-vision-ai"><img src="https://img.shields.io/github/forks/KyubinoKitsune-ace/cyber-vision-ai?style=social" alt="GitHub forks"></a>
+  <a href="https://github.com/KyubinoKitsune-ace/cyber-vision-ai/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
 </p>
 
 ---
@@ -74,8 +74,8 @@ Before you begin, ensure you have the following installed and configured:
 
 - **Clone the Repository:**
   ```bash
-  git clone https://github.com/bx0-0/CyberVisionAI.git
-  cd CyberVisionAI
+  git clone https://github.com/KyubinoKitsune-ace/cyber-vision-ai.git
+  cd cyber-vision-ai
   ```
 - **Create and Activate a Virtual Environment:**
   ```bash
@@ -185,4 +185,4 @@ If you wish to use the Retrieval-Augmented Generation (RAG) feature, you will ne
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/bx0-0/CyberVisionAI/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/KyubinoKitsune-ace/cyber-vision-ai/blob/main/LICENSE).
